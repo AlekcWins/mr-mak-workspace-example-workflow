@@ -1,6 +1,29 @@
 {
   "entities": [
     {
+      "id": "example-stephan-workflow",
+      "title": "Example Stephan Workflow",
+      "description": "OVERLORD, a fictional dark-fantasy RTS: research, references and design decisions traced into a working, interactive HUD prototype.",
+      "type": "group",
+      "category": "project",
+      "created": "2026-10-05",
+      "updated": "2026-10-05",
+      "folder": "2026-10-05_example-stephan-workflow",
+      "steps": [
+        {
+          "name": "Workspace",
+          "path": "index.html"
+        },
+        {
+          "name": "How it works",
+          "path": "guide.md"
+        }
+      ],
+      "status": "active",
+      "pinned": false,
+      "defaultStep": 0
+    },
+    {
       "id": "my-dream-game",
       "title": "My Dream Game",
       "description": "Mr. Mak 64: a small Sky Islands adventure, with character studies, world layouts and a development board.",

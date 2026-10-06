@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400">
+<defs><radialGradient id="b" cx=".5" cy=".4"><stop offset="0" stop-color="#5a4520"/><stop offset="1" stop-color="#120d07"/></radialGradient></defs>
+<rect width="640" height="400" fill="url(#b)"/>
+<path d="M170 400c10-120 70-170 150-170s140 50 150 170z" fill="#8e1f24"/>
+<path d="M200 400c10-90 60-130 120-130s110 40 120 130z" fill="#3a4252"/>
+<ellipse cx="250" cy="300" rx="44" ry="24" fill="#8e97a5"/><ellipse cx="390" cy="300" rx="44" ry="24" fill="#8e97a5"/>
+<ellipse cx="320" cy="190" rx="48" ry="58" fill="#c8957a"/>
+<path d="M276 200q44 90 88 0-10 34-44 38-34-4-44-38z" fill="#c9c2b4"/>
+<path d="M274 160l10-30 14 18 10-28 12 24 12-24 10 28 14-18 10 30z" fill="#d9b14f"/>
+<text x="24" y="380" fill="#f3d27a" font-family="Segoe UI, Inter, sans-serif" font-size="12">commander silhouette · gold reads as “hero”</text>
+<g font-family="Consolas, monospace" font-size="11" letter-spacing="1.5"><rect x="16" y="16" width="222" height="22" rx="3" fill="#000" opacity=".6"/><text x="26" y="31" fill="#d9d4ea">PLACEHOLDER · GENERATED BLOCK</text></g>
+</svg>

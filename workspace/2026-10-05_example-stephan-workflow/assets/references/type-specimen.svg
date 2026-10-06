@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400">
+<rect width="640" height="400" fill="#0f1015"/>
+<text x="40" y="140" fill="#f1eff6" font-family="Cinzel, Palatino Linotype, Book Antiqua, Georgia, serif" font-size="64" letter-spacing="10">OVERLORD</text>
+<text x="44" y="172" fill="#8b7cf6" font-family="Segoe UI, Inter, sans-serif" font-size="12" letter-spacing="6">EXAMPLE GAME · DISPLAY SERIF</text>
+<text x="40" y="232" fill="#c9c6d3" font-family="Segoe UI, Inter, sans-serif" font-size="22">Interface sans — compact and readable.</text>
+<text x="40" y="266" fill="#8b8798" font-family="Segoe UI, Inter, sans-serif" font-size="14">Tiny uppercase labels · 13 px body · 30 px page titles</text>
+<text x="40" y="310" fill="#d9b45a" font-family="Consolas, Cascadia Code, monospace" font-size="18">4 500  ·  ATK 14  ·  00:42</text>
+<text x="40" y="336" fill="#8b8798" font-family="Segoe UI, Inter, sans-serif" font-size="12">monospace for numbers that change</text>
+<g font-family="Consolas, monospace" font-size="11" letter-spacing="1.5"><rect x="16" y="16" width="222" height="22" rx="3" fill="#000" opacity=".6"/><text x="26" y="31" fill="#d9d4ea">PLACEHOLDER · GENERATED BLOCK</text></g>
+</svg>

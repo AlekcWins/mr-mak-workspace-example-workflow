@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400">
+<defs><radialGradient id="b" cx=".5" cy=".4"><stop offset="0" stop-color="#5a1f20"/><stop offset="1" stop-color="#0e0606"/></radialGradient>
+<radialGradient id="e"><stop offset="0" stop-color="#ff6b4a"/><stop offset="1" stop-color="#ff2d1f" stop-opacity="0"/></radialGradient></defs>
+<rect width="640" height="400" fill="url(#b)"/>
+<path d="M220 400l20-260q80-90 160 0l20 260-30-26-24 26-24-26-24 26-24-26-24 26-24-26z" fill="#1d1a1f"/>
+<ellipse cx="320" cy="200" rx="42" ry="52" fill="#cdc6ad"/>
+<ellipse cx="302" cy="194" rx="13" ry="15" fill="#1b0d0d"/><ellipse cx="338" cy="194" rx="13" ry="15" fill="#1b0d0d"/>
+<circle cx="302" cy="194" r="26" fill="url(#e)"/><circle cx="338" cy="194" r="26" fill="url(#e)"/>
+<path d="M296 236h48M306 230v12M320 230v12M334 230v12" stroke="#3a2a22" stroke-width="3"/>
+<text x="24" y="380" fill="#ff9a90" font-family="Segoe UI, Inter, sans-serif" font-size="12">enemy silhouette · red eyes carry the faction colour</text>
+<g font-family="Consolas, monospace" font-size="11" letter-spacing="1.5"><rect x="16" y="16" width="222" height="22" rx="3" fill="#000" opacity=".6"/><text x="26" y="31" fill="#d9d4ea">PLACEHOLDER · GENERATED BLOCK</text></g>
+</svg>
